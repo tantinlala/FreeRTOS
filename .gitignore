@@ -21,3 +21,8 @@ __pycache__/
 # Ignore certificate files.
 *.pem
 *.crt
+.cproject
+.project
+language.settings.xml
+FreeRTOS/Demo/Posix_GCC/.settings
+FreeRTOS/Demo/Posix_GCC/Default
